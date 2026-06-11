@@ -8,10 +8,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 import java.util.List;
 
-/**
- * Adaptador customizado para exibir itens Place na ListView.
- * Usa o layout item_place.xml para mostrar nome, tipo, endereço e observação.
- */
+
 public class PlaceAdapter extends ArrayAdapter<Place> {
 
     public PlaceAdapter(Context context, List<Place> lista) {
