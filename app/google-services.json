@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944790675215",
+    "project_id": "projetoaf-c1fcb",
+    "storage_bucket": "projetoaf-c1fcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944790675215:android:b610e2dd46257de9ede87a",
+        "android_client_info": {
+          "package_name": "com.example.provaaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWIn42aGJTiaeIx0FnaU9myx4sL9qhGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
